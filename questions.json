@@ -1,0 +1,1034 @@
+[
+  {
+    "question": "Which documents does SAP Transportation Management support when planning transportation with SAP S/4HANA?",
+    "options": [
+      "Material documents",
+      "Stock transport orders",
+      "Transfer orders",
+      "Inbound deliveries",
+      "Returns"
+    ],
+    "correct": ["Stock transport orders", "Inbound deliveries", "Returns"]
+  },
+  {
+    "question": "What is the result of posting a vendor's invoice?",
+    "options": [
+      "The material ledger document is generated",
+      "The vendor's account is cleared of open items.",
+      "The purchase order history is updated.",
+      "Vendor payment is posted"
+    ],
+    "correct": ["The purchase order history is updated."]
+  },
+  {
+    "question": "For which object do you plan activity prices?",
+    "options": ["Cost center", "Work center", "WBS element", "Internal order"],
+    "correct": ["Cost center"]
+  },
+  {
+    "question": "You've been tasked with converting SAP Fiori Tile groups to SAP Fiori Spaces. Which assignment should be made?",
+    "options": [
+      "Assign Tiles to Pages",
+      "Assign Spaces to Pages",
+      "Assign Pages to Spaces",
+      "Assign Sections to Spaces"
+    ],
+    "correct": ["Assign Pages to Spaces"]
+  },
+  {
+    "question": "What is created when you post a valuated goods receipt for consumable materials?",
+    "options": [
+      "Material ledger document",
+      "Vendor invoice document",
+      "Controlling document",
+      "Commitment"
+    ],
+    "correct": ["Controlling document"]
+  },
+  {
+    "question": "Which of the following is the basic organizational unit in Management Accounting?",
+    "options": ["Cost Center", "Client", "Company Code", "Controlling Area"],
+    "correct": ["Controlling Area"]
+  },
+  {
+    "question": "You post an invoice to purchase a company car. What accounts are posted in the journal entry?",
+    "options": [
+      "Supplier account",
+      "Asset account",
+      "Material account",
+      "Tax account",
+      "Customer account"
+    ],
+    "correct": ["Supplier account", "Asset account", "Tax account"]
+  },
+  {
+    "question": "Which of the following is a permitted hierarchical structure for Management Accounting in the SAP S/4HANA enterprise structure?",
+    "options": [
+      "A controlling area is assigned to a plant.",
+      "A controlling area is assigned to an operating concern.",
+      "An operating concern is assigned to a company code.",
+      "An operating concern is assigned to a controlling area."
+    ],
+    "correct": ["An operating concern is assigned to a controlling area."]
+  },
+  {
+    "question": "Why might you create an equipment master record?",
+    "options": [
+      "To report the usage time of an object at a functional location",
+      "To perform and record maintenance tasks for certain parts of your technical system for long-term evaluation",
+      "To functionally represent the technical system structures at your company",
+      "To collect and evaluate technical data for an object over a long period of time"
+    ],
+    "correct": [
+      "To perform and record maintenance tasks for certain parts of your technical system for long-term evaluation",
+      "To collect and evaluate technical data for an object over a long period of time"
+    ]
+  },
+  {
+    "question": "What is the result of document splitting?",
+    "options": [
+      "Additional logistical documents are created",
+      "Additional controlling documents are created",
+      "Additional values are created",
+      "Additional financial documents are created"
+    ],
+    "correct": ["Additional financial documents are created"]
+  },
+  {
+    "question": "What are some of the functions of SAP Extended Warehouse Management?",
+    "options": [
+      "Putaway with transfer orders",
+      "Mobile device integration",
+      "Storage-bin-level determination for incoming goods",
+      "Inventory management at storage location level"
+    ],
+    "correct": [
+      "Mobile device integration",
+      "Storage-bin-level determination for incoming goods"
+    ]
+  },
+  {
+    "question": "Which object is created to report on market characteristics, such as customer, product, and region?",
+    "options": [
+      "Sales organization",
+      "Profit center",
+      "Profitability segment",
+      "Segment"
+    ],
+    "correct": ["Profitability segment"]
+  },
+  {
+    "question": "What must you do in a purchase order to purchase a material for a cost center?",
+    "options": [
+      "Enter a purchase order item category",
+      "Enter a storage location",
+      "Enter an activity type for the cost center in the purchasing document",
+      "Enter an account assignment category"
+    ],
+    "correct": ["Enter an account assignment category"]
+  },
+  {
+    "question": "You have found a new source of supply for a material. When maintaining the Business Partner information for the Supplier role, which organizational unit should be extended?",
+    "options": [
+      "Purchasing Organization",
+      "Company Code",
+      "Plant",
+      "Purchasing Group"
+    ],
+    "correct": ["Purchasing Organization"]
+  },
+  {
+    "question": "What type of document is generated for an external network activity?",
+    "options": [
+      "Production order",
+      "Sales order",
+      "Reservation",
+      "Purchase requisition"
+    ],
+    "correct": ["Purchase requisition"]
+  },
+  {
+    "question": "What general ledger accounts receive postings when performing the goods receipt?",
+    "options": [
+      "Vendor reconciliation account",
+      "Tax Account",
+      "Consumption account",
+      "GR/IR account"
+    ],
+    "correct": ["Vendor reconciliation account", "GR/IR account"]
+  },
+  {
+    "question": "In a project, what is the correct term for a group of dependencies, activities, and relationships sequenced in chronological order?",
+    "options": [
+      "Work breakdown structure",
+      "Project planning",
+      "Routing",
+      "Network"
+    ],
+    "correct": ["Network"]
+  },
+  {
+    "question": "Which of the following applies to Sales and Distribution enterprise structures?",
+    "options": [
+      "A division can only be assigned to one sales organization.",
+      "A sales organization can only be assigned to one company code.",
+      "A sales organization can be assigned to more than one company code.",
+      "A distribution channel can be assigned to many sales organizations.",
+      "A division can be assigned to more than one sales organization."
+    ],
+    "correct": [
+      "A sales organization can only be assigned to one company code.",
+      "A distribution channel can be assigned to many sales organizations.",
+      "A division can be assigned to more than one sales organization."
+    ]
+  },
+  {
+    "question": "What activities can an employee complete using employee self-service?",
+    "options": [
+      "Enroll in a training course",
+      "Perform compensation planning",
+      "Enter work times",
+      "Recruit employees",
+      "Update banking information"
+    ],
+    "correct": [
+      "Enroll in a training course",
+      "Enter work times",
+      "Update banking information"
+    ]
+  },
+  {
+    "question": "What are some of the characteristics of the SAP Fiori UX design?",
+    "options": [
+      "Function-based applications",
+      "Role-based applications",
+      "Adaptive to devices",
+      "Multiple access entry points"
+    ],
+    "correct": ["Role-based applications", "Adaptive to devices"]
+  },
+  {
+    "question": "What are the integration points between a fixed asset and a cost center?",
+    "options": [
+      "Asset creation",
+      "Asset acquisition",
+      "Asset book value",
+      "Depreciation run"
+    ],
+    "correct": ["Asset creation", "Depreciation run"]
+  },
+  {
+    "question": "What can a successful MRP run create?",
+    "options": [
+      "Dependent requirements",
+      "Purchase orders",
+      "Reservations",
+      "Planned independent requirements"
+    ],
+    "correct": ["Dependent requirements"]
+  },
+  {
+    "question": "How can you post internal labor costs to a network activity?",
+    "options": [
+      "By activity allocation",
+      "By distribution",
+      "By confirmation",
+      "By service entry sheet"
+    ],
+    "correct": ["By activity allocation", "By confirmation"]
+  },
+  {
+    "question": "What action assigns actual costs to a project?",
+    "options": [
+      "Material availability check",
+      "Saving a purchase order",
+      "Material withdrawal from stock",
+      "Releasing a project budget"
+    ],
+    "correct": ["Material withdrawal from stock"]
+  },
+  {
+    "question": "You purchase raw materials with a purchase order against a cost center. During which process step are financial accounting documents posted?",
+    "options": [
+      "Save purchase order",
+      "Approval of purchase requisition",
+      "Inbound delivery to warehouse",
+      "Post valuated goods receipt"
+    ],
+    "correct": ["Post valuated goods receipt"]
+  },
+  {
+    "question": "Which SAP Suite line-of-business solution can be used to enhance the procurement of external services?",
+    "options": [
+      "SAP Arba",
+      "SAP Concur Travel and Expense",
+      "SAP Success Factors",
+      "SAP Field glass"
+    ],
+    "correct": ["SAP Field glass"]
+  },
+  {
+    "question": "What does a work center control?",
+    "options": [
+      "Availability of capacity",
+      "Calculation of costs of work performed",
+      "Release of production orders",
+      "Valuation of bill of material components"
+    ],
+    "correct": [
+      "Availability of capacity",
+      "Calculation of costs of work performed"
+    ]
+  },
+  {
+    "question": "What are the benefits of using a business partner in SAP S/4HANA?",
+    "options": [
+      "Vendors are managed separately from customers.",
+      "Redundant data is reduced.",
+      "Data architecture is harmonized",
+      "General data is unique to each assigned role."
+    ],
+    "correct": ["Redundant data is reduced.", "Data architecture is harmonized"]
+  },
+  {
+    "question": "In a warehouse, what represents the physical location where the goods are stored?",
+    "options": ["Plant", "Storage Bin", "Storage Type", "Storage Location"],
+    "correct": ["Storage Bin"]
+  },
+  {
+    "question": "You have created an equipment master record. What other master data record can be created automatically?",
+    "options": ["Functional location", "Material", "Asset", "Maintenance BOM"],
+    "correct": ["Asset"]
+  },
+  {
+    "question": "Which action updates the costing-based profitability analysis?",
+    "options": [
+      "Post goods issue",
+      "Save the billing document",
+      "Post the customer's payment",
+      "Create the outbound delivery"
+    ],
+    "correct": ["Save the billing document"]
+  },
+  {
+    "question": "Which of the following are advantages of the SAP Business Technology Platform?",
+    "options": [
+      "Unified application development environment",
+      "Optimized for any software",
+      "Uses the latest machine learning innovations",
+      "Uses SAP Fiori Spaces",
+      "Flexible workflows"
+    ],
+    "correct": [
+      "Unified application development environment",
+      "Uses the latest machine learning innovations",
+      "Flexible workflows"
+    ]
+  },
+  {
+    "question": "Which of the following can be maintained in a maintenance notification?",
+    "options": [
+      "Materials planning",
+      "Capacity requirements",
+      "Tasks",
+      "Cause of damage",
+      "Equipment"
+    ],
+    "correct": ["Tasks", "Cause of damage", "Equipment"]
+  },
+  {
+    "question": "What is the purpose of using a Work Breakdown Structure (WBS)?",
+    "options": [
+      "To evaluate aggregated data",
+      "To schedule warehouse tasks",
+      "To manage equipment",
+      "To allocate budgets",
+      "To define responsibilities"
+    ],
+    "correct": [
+      "To evaluate aggregated data",
+      "To allocate budgets",
+      "To define responsibilities"
+    ]
+  },
+  {
+    "question": "What elements are recorded during an overall completion confirmation of a maintenance order?",
+    "options": [
+      "Time entry",
+      "Measuring documents",
+      "Availability check",
+      "Materials",
+      "Invoicing"
+    ],
+    "correct": ["Time entry", "Measuring documents", "Materials"]
+  },
+  {
+    "question": "What tasks are performed for external reporting purposes?",
+    "options": [
+      "Manage accounts receivables",
+      "Calculate production variances",
+      "Create a profit and loss statement",
+      "Create cost center plan/actual statements"
+    ],
+    "correct": [
+      "Create a profit and loss statement",
+      "Create cost center plan/actual statements"
+    ]
+  },
+  {
+    "question": "What business partner role connects the supplier with your company code's balance sheet?",
+    "options": [
+      "FI Vendor",
+      "Business Partner General",
+      "FI Customer",
+      "Supplier"
+    ],
+    "correct": ["FI Vendor"]
+  },
+  {
+    "question": "What is the timeframe of SAP SuccessFactors release cycles?",
+    "options": ["Bi-annually", "Monthly", "Annually", "Quarterly"],
+    "correct": ["Bi-annually"]
+  },
+  {
+    "question": "To what object can you settle an internal order?",
+    "options": [
+      "Statistical key figure",
+      "Equipment",
+      "Profit center",
+      "Fixed asset"
+    ],
+    "correct": ["Profit center"]
+  },
+  {
+    "question": "When running MRP, what setting in the material master determines if a material will be procured or produced?",
+    "options": [
+      "Procurement type",
+      "Purchasing group",
+      "MRP type",
+      "Processing key"
+    ],
+    "correct": ["Procurement type"]
+  },
+  {
+    "question": "What transactions credit a production order?",
+    "options": [
+      "Goods receipt",
+      "Material withdrawal",
+      "Confirmation",
+      "Order settlement"
+    ],
+    "correct": ["Goods receipt", "Order settlement"]
+  },
+  {
+    "question": "Which organizational units do you create for Financial Accounting (FI) in SAP S/4HANA Finance?",
+    "options": [
+      "Operating concern",
+      "Controlling area",
+      "Segment",
+      "Company code"
+    ],
+    "correct": ["Controlling area", "Company code"]
+  },
+  {
+    "question": "During the production order process, what steps can be executed via background processing?",
+    "options": [
+      "Order release",
+      "Order settlement",
+      "WIP determination",
+      "Order confirmation",
+      "Order creation"
+    ],
+    "correct": ["Order release", "Order settlement", "WIP determination"]
+  },
+  {
+    "question": "Which controlling object is always a statistical object?",
+    "options": [
+      "Internal order",
+      "Profitability segment",
+      "Cost center",
+      "Profit center"
+    ],
+    "correct": ["Profitability segment"]
+  },
+  {
+    "question": "When creating condition master records, what data properties does the condition type control?",
+    "options": ["Scales", "Validity period", "Currency", "Sales organization"],
+    "correct": ["Scales", "Validity period"]
+  },
+  {
+    "question": "Which application shows the current levels of stock, requirements, and receipts for a given material?",
+    "options": [
+      "MRP Live",
+      "MRP List",
+      "Stock overview",
+      "Stock requirements list"
+    ],
+    "correct": ["Stock requirements list"]
+  },
+  {
+    "question": "Which master records are directly assigned to a company code?",
+    "options": ["Material", "Cost center", "Activity type", "Fixed asset"],
+    "correct": ["Cost center", "Fixed asset"]
+  },
+  {
+    "question": "When creating a warehouse number in the SAP enterprise structure, what organizational elements must be assigned?",
+    "options": ["Shipping point", "Company code", "Plant", "Storage location"],
+    "correct": ["Plant", "Storage location"]
+  },
+  {
+    "question": "In a warehouse, what represents the physical location where the goods are stored?",
+    "options": ["Pallet", "Storage location", "Storage section", "Storage bin"],
+    "correct": ["Storage bin"]
+  },
+  {
+    "question": "What objects are used to create a Purchasing Info Record?",
+    "options": [
+      "Company code",
+      "Purchasing organization",
+      "Material master",
+      "Vendor",
+      "Purchasing group"
+    ],
+    "correct": ["Purchasing organization", "Material master", "Vendor"]
+  },
+  {
+    "question": "Which objects can you settle?",
+    "options": [
+      "Work breakdown structure (WBS) element",
+      "Maintenance order",
+      "Profitability segment",
+      "Cost center"
+    ],
+    "correct": [
+      "Work breakdown structure (WBS) element",
+      "Maintenance order",
+      "Cost center"
+    ]
+  },
+  {
+    "question": "Which of the following is the hierarchical model of a project?",
+    "options": ["Task list", "Work breakdown structure", "Network", "Activity"],
+    "correct": ["Network"]
+  },
+  {
+    "question": "Which processes can be automatically performed when you post an order confirmation for a production order?",
+    "options": [
+      "Variance calculation",
+      "Order settlement",
+      "Goods issue",
+      "Goods receipt",
+      "Post actual costs"
+    ],
+    "correct": ["Order settlement", "Goods issue", "Goods receipt"]
+  },
+  {
+    "question": "You are creating a new company code that you want to assign to the group controlling area. Which characteristics must the new company code share with the other company codes already assigned to the controlling area?",
+    "options": [
+      "Posting period variant",
+      "Fiscal year variant",
+      "Operating chart of accounts",
+      "Group currency"
+    ],
+    "correct": ["Fiscal year variant", "Operating chart of accounts"]
+  },
+  {
+    "question": "What are the suite qualities of the SAP Intelligent Enterprise?",
+    "options": [
+      "One workflow inbox",
+      "End-to-end process blueprints",
+      "Embedded analytics per product",
+      "Seamless user experience",
+      "Code-based applications"
+    ],
+    "correct": [
+      "End-to-end process blueprints",
+      "Embedded analytics per product",
+      "Seamless user experience"
+    ]
+  },
+  {
+    "question": "Which business process activities create a Financial Accounting (FI) document?",
+    "options": [
+      "Transfer stock from storage location to storage location",
+      "Post goods issue to a production order",
+      "Execute a depreciation run",
+      "Create a sales order",
+      "Transfer stock to another company code"
+    ],
+    "correct": [
+      "Post goods issue to a production order",
+      "Execute a depreciation run",
+      "Transfer stock to another company code"
+    ]
+  },
+  {
+    "question": "What demand elements are evaluated during a MRP run?",
+    "options": [
+      "Sales orders",
+      "Planned orders",
+      "Scheduled lines",
+      "Purchase requisitions"
+    ],
+    "correct": ["Sales orders"]
+  },
+  {
+    "question": "What happens when you post a goods issue in a delivery document for a sales order?",
+    "options": [
+      "An EWM outbound delivery order is created",
+      "The billing due list is updated",
+      "An invoice is created",
+      "A material ledger document is created",
+      "Inventory quantities are updated"
+    ],
+    "correct": [
+      "An EWM outbound delivery order is created",
+      "The billing due list is updated",
+      "Inventory quantities are updated"
+    ]
+  },
+  {
+    "question": "What function commits funds assigned to the budget of a WBS element?",
+    "options": [
+      "Availability control",
+      "Cost center accounting",
+      "Settlement processing",
+      "Profitability analysis"
+    ],
+    "correct": ["Availability control"]
+  },
+  {
+    "question": "Which controlling objects can be settled by a settlement rule in SAP S/4HANA?",
+    "options": [
+      "Production order",
+      "Maintenance order",
+      "WBS element",
+      "Sales order",
+      "Profit center"
+    ],
+    "correct": ["Production order", "Maintenance order", "WBS element"]
+  },
+  {
+    "question": "Which backorder processing (BOP) strategy has first processing priority and is used to release confirmed stock to prioritize other orders to plan future stock needs?",
+    "options": ["Lose", "Gain", "Win", "Fill"],
+    "correct": ["Win"]
+  },
+  {
+    "question": "Why would you enter your working hours using Cross-Application Time Sheet (CATS)?",
+    "options": [
+      "To record overtime",
+      "To request absence",
+      "To confirm activities",
+      "To maintain absence",
+      "To plan time"
+    ],
+    "correct": ["To record overtime", "To confirm activities", "To plan time"]
+  },
+  {
+    "question": "Which objects can be assigned to a profit center?",
+    "options": [
+      "Sales order item",
+      "Purchase order item",
+      "Sales organization",
+      "Material"
+    ],
+    "correct": ["Sales order item", "Material"]
+  },
+  {
+    "question": "What is the result of converting a planned order?",
+    "options": [
+      "A planned independent requirement",
+      "A purchase requisition",
+      "A purchase order",
+      "A production order"
+    ],
+    "correct": ["A purchase requisition", "A production order"]
+  },
+  {
+    "question": "What is a typical sequence of process steps in corrective maintenance?",
+    "options": [
+      "Create task list → Create notification → Schedule notification → Release order → Confirm order",
+      "Create notification → Plan order → Execute order → Complete order → Confirm order",
+      "Create notification → Plan order → Release order → Confirm order → Complete order",
+      "Create task list → Create notification → Schedule notification → Confirm order → Complete order"
+    ],
+    "correct": [
+      "Create notification → Plan order → Release order → Confirm order → Complete order"
+    ]
+  },
+  {
+    "question": "In the enterprise structure, what Human Resources organizational element is assigned directly to a company code?",
+    "options": [
+      "Personnel area",
+      "Position",
+      "Infotype",
+      "Organizational unit"
+    ],
+    "correct": ["Personnel area"]
+  },
+  {
+    "question": "What does a posting key control?",
+    "options": [
+      "Debit/credit posting",
+      "Posting without tax allowed",
+      "Number range of document",
+      "Account type"
+    ],
+    "correct": ["Debit/credit posting", "Account type"]
+  },
+  {
+    "question": "Which of the following are business partner categories in SAP S/4HANA?",
+    "options": ["Individual", "Group", "Person", "Corporation", "Organization"],
+    "correct": ["Group", "Person", "Organization"]
+  },
+  {
+    "question": "Which of the following are selection modes for running MRP?",
+    "options": [
+      "MRP Live",
+      "Predictive MRP",
+      "Classical MRP",
+      "Regenerative MRP",
+      "Backorder Processing"
+    ],
+    "correct": ["MRP Live", "Classical MRP", "Regenerative MRP"]
+  },
+  {
+    "question": "You are creating a new company code that you want to assign to the group controlling area. Which characteristics must the new company code share with the other company codes already assigned to the controlling area?",
+    "options": [
+      "Fiscal year variant",
+      "Operating chart of accounts",
+      "Currency",
+      "Posting period variant"
+    ],
+    "correct": ["Fiscal year variant", "Operating chart of accounts"]
+  },
+  {
+    "question": "What information do you maintain for a general ledger account on company code level?",
+    "options": [
+      "Account group",
+      "Account type",
+      "Account number",
+      "Account currency"
+    ],
+    "correct": ["Account currency"]
+  },
+  {
+    "question": "What is one advantage of using stock transport orders instead of stock transfers?",
+    "options": [
+      "The ownership transfer and carrier delivery costs are delayed until goods receipt",
+      "Goods movements occur in one step, only at goods issue",
+      "The purchase orders that are generated by MRP can be converted to stock transport orders",
+      "The process of goods issue and goods receipt is monitored using the purchase order (PO) history"
+    ],
+    "correct": [
+      "The ownership transfer and carrier delivery costs are delayed until goods receipt"
+    ]
+  },
+  {
+    "question": "What technology elements supercharge the human experience when working with X and O data?",
+    "options": [
+      "Machine learning predictions",
+      "Internet of Things (IoT)",
+      "Blockchain",
+      "Conversational AI"
+    ],
+    "correct": ["Machine learning predictions", "Internet of Things (IoT)"]
+  },
+  {
+    "question": "What occurs when a maintenance technician changes the status of an order to technically completed?",
+    "options": [
+      "A time entry is posted for the maintenance technician",
+      "Incoming invoices for the order can be processed",
+      "Open purchase requisitions are marked for deletion",
+      "Reserved materials are released from the reservation",
+      "The order's settlement rule is executed"
+    ],
+    "correct": [
+      "Incoming invoices for the order can be processed",
+      "Open purchase requisitions are marked for deletion",
+      "Reserved materials are released from the reservation"
+    ]
+  },
+  {
+    "question": "What master data in the activity type is used to post an activity allocation?",
+    "options": [
+      "Cost element",
+      "Internal order",
+      "WBS element",
+      "Statistical key figure"
+    ],
+    "correct": ["Cost element"]
+  },
+  {
+    "question": "In a make-to-order process, a raw material needs to be issued from the warehouse to the manufacturing line. To which order will you post the goods issue?",
+    "options": [
+      "Outbound delivery order",
+      "Production order",
+      "Stock transport order",
+      "Sales order"
+    ],
+    "correct": ["Production order"]
+  },
+  {
+    "question": "What data must be linked to a cost center to derive segment accounting?",
+    "options": [
+      "Profit center",
+      "Cost center category",
+      "General ledger account",
+      "Controlling area"
+    ],
+    "correct": ["Profit center"]
+  },
+  {
+    "question": "Which SAP Fiori application types use SAP HANA capabilities directly?",
+    "options": [
+      "Analytical",
+      "Transactional",
+      "SAP GUI for HTML",
+      "Fact sheet"
+    ],
+    "correct": ["Analytical", "Fact sheet"]
+  },
+  {
+    "question": "What occurs when planning an internal project activity?",
+    "options": [
+      "Costs are recorded",
+      "Service is performed",
+      "Purchase requisitions are generated",
+      "Resources are committed"
+    ],
+    "correct": ["Resources are committed"]
+  },
+  {
+    "question": "What document, when saved, creates a commitment for an internal order?",
+    "options": [
+      "Maintenance order",
+      "Production order",
+      "Goods receipt",
+      "Purchase order"
+    ],
+    "correct": ["Purchase order"]
+  },
+  {
+    "question": "What maintenance order elements are included in an operation?",
+    "options": [
+      "Object list",
+      "Settlement rule",
+      "Work center",
+      "Standard time",
+      "Activity type"
+    ],
+    "correct": ["Object list", "Work center", "Standard time"]
+  },
+  {
+    "question": "Which end-to-end business processes are included with SAP S/4HANA in the context of the Intelligent Enterprise?",
+    "options": [
+      "Order to cash",
+      "Request to service",
+      "Source to pay",
+      "Design to build",
+      "Record to report"
+    ],
+    "correct": ["Order to cash", "Source to pay", "Record to report"]
+  },
+  {
+    "question": "You want the SAP S/4HANA system to perform product cost planning. What master data is used to calculate the quantity structure?",
+    "options": ["Routing", "Work center", "Cost center", "Bill of material"],
+    "correct": ["Routing", "Bill of material"]
+  },
+  {
+    "question": "At which steps in the order-to-cash process are postings made to the general ledger (G/L)?",
+    "options": [
+      "Creating a sales order",
+      "Posting a goods issue",
+      "Saving an invoice",
+      "Creating an outbound delivery"
+    ],
+    "correct": ["Posting a goods issue", "Saving an invoice"]
+  },
+  {
+    "question": "A goods issue is posted against a production order. What are the results?",
+    "options": [
+      "A warehouse task is created",
+      "The material reservation is reduced",
+      "Internal labor costs are posted",
+      "A material ledger document is created",
+      "Actual costs are updated in the production order"
+    ],
+    "correct": [
+      "The material reservation is reduced",
+      "A material ledger document is created",
+      "Actual costs are updated in the production order"
+    ]
+  },
+  {
+    "question": "To which application areas can Cross-Application Time Sheet (CATS) data be transferred directly?",
+    "options": [
+      "Management Accounting (CO)",
+      "Human Capital Management (HCM)",
+      "Project System (PS)",
+      "Financial Accounting (FI)",
+      "Production Planning (PP)"
+    ],
+    "correct": [
+      "Management Accounting (CO)",
+      "Human Capital Management (HCM)",
+      "Project System (PS)"
+    ]
+  },
+  {
+    "question": "In what step of the purchase-to-pay process is a purchase requisition generated?",
+    "options": [
+      "Determination of requirements",
+      "Source of supply determination",
+      "Vendor selection",
+      "Invoice verification"
+    ],
+    "correct": ["Determination of requirements"]
+  },
+  {
+    "question": "In a project, what is linked via relationships?",
+    "options": [
+      "Work breakdown structure elements",
+      "Networks",
+      "Activities",
+      "Project definitions"
+    ],
+    "correct": ["Networks"]
+  },
+  {
+    "question": "When is backorder processing considered?",
+    "options": [
+      "When goods issue is performed",
+      "When order quantity is not fully confirmed",
+      "When planning transportation",
+      "When advanced available-to-promise is unavailable"
+    ],
+    "correct": ["When order quantity is not fully confirmed"]
+  },
+  {
+    "question": "How do you view all records created for an employee?",
+    "options": [
+      "Basic personal data",
+      "Personnel action",
+      "Organizational assignment",
+      "Personnel file"
+    ],
+    "correct": ["Personnel file"]
+  },
+  {
+    "question": "How can you post external labour costs to a network activity?",
+    "options": [
+      "By activity allocation",
+      "By service entry sheet",
+      "By settlement",
+      "By confirmation"
+    ],
+    "correct": ["By service entry sheet"]
+  },
+  {
+    "question": "What types of procedures may be used to perform a cross-plant stock transfer?",
+    "options": [
+      "Stock transport order without delivery",
+      "Slotting and rearrangement",
+      "Two-step procedure",
+      "One-step procedure",
+      "Material requirements planning"
+    ],
+    "correct": [
+      "Stock transport order without delivery",
+      "Two-step procedure",
+      "One-step procedure"
+    ]
+  },
+  {
+    "question": "What activities can a manager complete using Manager Self-Service?",
+    "options": [
+      "Control costs",
+      "Enroll in benefits",
+      "Enter time sheet",
+      "Manage budget"
+    ],
+    "correct": ["Enroll in benefits", "Enter time sheet"]
+  },
+  {
+    "question": "What planning tool prioritizes sales order forecasting and strategically plans inventory buffers?",
+    "options": [
+      "MRP simulation and resolution",
+      "Demand-driven MRP (DDMRP)",
+      "Constraint-based planning (PP/DS)",
+      "Backorder processing (BOP)"
+    ],
+    "correct": ["Demand-driven MRP (DDMRP)"]
+  },
+  {
+    "question": "When you post an accounting document, for which line item must you enter a transaction type?",
+    "options": [
+      "Tax account",
+      "Material account",
+      "Customer account",
+      "Asset account"
+    ],
+    "correct": ["Asset account"]
+  },
+  {
+    "question": "How do you use the result of a released standard cost estimate?",
+    "options": [
+      "To determine a material sales price in Sales and Distribution",
+      "To calculate the price of an activity type",
+      "To determine the base costs used to calculate overhead",
+      "To calculate the plan costs in a production order",
+      "To update the current standard price in the material master record"
+    ],
+    "correct": [
+      "To calculate the price of an activity type",
+      "To calculate the plan costs in a production order",
+      "To update the current standard price in the material master record"
+    ]
+  },
+  {
+    "question": "What must you do in a purchase order to purchase a material for a cost center?",
+    "options": [
+      "Enter a purchase order item category",
+      "Enter an account assignment category",
+      "Change the account to a cost element",
+      "Change the material type appropriately"
+    ],
+    "correct": ["Enter an account assignment category"]
+  },
+  {
+    "question": "Where do you maintain primary and secondary cost elements?",
+    "options": [
+      "Cost Element Accounting",
+      "Profit Center Accounting",
+      "General Ledger Accounting",
+      "Cost Center Accounting"
+    ],
+    "correct": ["General Ledger Accounting"]
+  },
+  {
+    "question": "Which business processes post to the general ledger?",
+    "options": [
+      "Posting an activity allocation",
+      "Posting an activity price",
+      "Goods issue from stock",
+      "Purchase order creation",
+      "Depreciation posting"
+    ],
+    "correct": [
+      "Posting an activity allocation",
+      "Goods issue from stock",
+      "Depreciation posting"
+    ]
+  },
+  {
+    "question": "Which document is created when you post a valuated goods receipt for consumable materials?",
+    "options": [
+      "Delivery note",
+      "Controlling document",
+      "Vendor invoice document",
+      "Purchase order"
+    ],
+    "correct": ["Controlling document"]
+  }
+]
