@@ -127,3 +127,15 @@ if st.session_state.submitted:
     st.write(f"**Accuracy:** {accuracy:.2f}%")
 
     st.stop()
+
+# ------------------ HIDE STREAMLIT UI ------------------
+st.markdown(
+    """
+    <style>
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    header {visibility: hidden;}
+    </style>
+    """,
+    unsafe_allow_html=True
+)
