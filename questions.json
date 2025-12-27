@@ -1,6 +1,6 @@
 [
   {
-    "question": "Which documents does SAP Transportation Management support when planning transportation with SAP S/4HANA?",
+    "question": "Which documents does SAP Transportation Management support when planning transportation with SAP S/4HANA? Note: There are 3 correct answers to this question ",
     "options": [
       "Material documents",
       "Stock transport orders",
@@ -51,7 +51,7 @@
     "correct": ["Controlling Area"]
   },
   {
-    "question": "You post an invoice to purchase a company car. What accounts are posted in the journal entry?",
+    "question": "You post an invoice to purchase a company car. What accounts are posted in the journal entry? Note: There are 3 correct answers to this question ",
     "options": [
       "Supplier account",
       "Asset account",
@@ -72,7 +72,7 @@
     "correct": ["An operating concern is assigned to a controlling area."]
   },
   {
-    "question": "Why might you create an equipment master record?",
+    "question": "Why might you create an equipment master record? Note: There are 2 correct answers to this question",
     "options": [
       "To report the usage time of an object at a functional location",
       "To perform and record maintenance tasks for certain parts of your technical system for long-term evaluation",
@@ -95,7 +95,7 @@
     "correct": ["Additional financial documents are created"]
   },
   {
-    "question": "What are some of the functions of SAP Extended Warehouse Management?",
+    "question": "What are some of the functions of SAP Extended Warehouse Management? Note: There are 2 correct answers to this question",
     "options": [
       "Putaway with transfer orders",
       "Mobile device integration",
@@ -148,7 +148,7 @@
     "correct": ["Purchase requisition"]
   },
   {
-    "question": "What general ledger accounts receive postings when performing the goods receipt?",
+    "question": "What general ledger accounts receive postings when performing the goods receipt? Note: There are 2 correct answers to this question ",
     "options": [
       "Vendor reconciliation account",
       "Tax Account",
@@ -168,7 +168,7 @@
     "correct": ["Network"]
   },
   {
-    "question": "Which of the following applies to Sales and Distribution enterprise structures?",
+    "question": "Which of the following applies to Sales and Distribution enterprise structures? Note: There are 3 correct answers to this question ",
     "options": [
       "A division can only be assigned to one sales organization.",
       "A sales organization can only be assigned to one company code.",
@@ -183,7 +183,7 @@
     ]
   },
   {
-    "question": "What activities can an employee complete using employee self-service?",
+    "question": "What activities can an employee complete using employee self-service? Note: There are 2 correct answers to this question",
     "options": [
       "Enroll in a training course",
       "Perform compensation planning",
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "question": "What are some of the characteristics of the SAP Fiori UX design?",
+    "question": "What are some of the characteristics of the SAP Fiori UX design? Note: There are 2 correct answers to this question ",
     "options": [
       "Function-based applications",
       "Role-based applications",
@@ -208,7 +208,7 @@
     "correct": ["Role-based applications", "Adaptive to devices"]
   },
   {
-    "question": "What are the integration points between a fixed asset and a cost center?",
+    "question": "What are the integration points between a fixed asset and a cost center? Note: There are 2 correct answers to this question ",
     "options": [
       "Asset creation",
       "Asset acquisition",
@@ -228,7 +228,7 @@
     "correct": ["Dependent requirements"]
   },
   {
-    "question": "How can you post internal labor costs to a network activity?",
+    "question": "How can you post internal labor costs to a network activity? Note: There are 2 correct answers to this question ",
     "options": [
       "By activity allocation",
       "By distribution",
@@ -268,7 +268,7 @@
     "correct": ["SAP Field glass"]
   },
   {
-    "question": "What does a work center control?",
+    "question": "What does a work center control? Note: There are 2 correct answers to this question ",
     "options": [
       "Availability of capacity",
       "Calculation of costs of work performed",
@@ -281,7 +281,7 @@
     ]
   },
   {
-    "question": "What are the benefits of using a business partner in SAP S/4HANA?",
+    "question": "What are the benefits of using a business partner in SAP S/4HANA? Note: There are 2 correct answers to this question ",
     "options": [
       "Vendors are managed separately from customers.",
       "Redundant data is reduced.",
@@ -311,7 +311,7 @@
     "correct": ["Save the billing document"]
   },
   {
-    "question": "Which of the following are advantages of the SAP Business Technology Platform?",
+    "question": "Which of the following are advantages of the SAP Business Technology Platform? Note: There are 3 correct answers to this question ",
     "options": [
       "Unified application development environment",
       "Optimized for any software",
@@ -326,7 +326,7 @@
     ]
   },
   {
-    "question": "Which of the following can be maintained in a maintenance notification?",
+    "question": "Which of the following can be maintained in a maintenance notification? Note: There are 3 correct answers to this question ",
     "options": [
       "Materials planning",
       "Capacity requirements",
@@ -337,7 +337,7 @@
     "correct": ["Tasks", "Cause of damage", "Equipment"]
   },
   {
-    "question": "What is the purpose of using a Work Breakdown Structure (WBS)?",
+    "question": "What is the purpose of using a Work Breakdown Structure (WBS)? Note: There are 3 correct answers to this question ",
     "options": [
       "To evaluate aggregated data",
       "To schedule warehouse tasks",
@@ -352,7 +352,7 @@
     ]
   },
   {
-    "question": "What elements are recorded during an overall completion confirmation of a maintenance order?",
+    "question": "What elements are recorded during an overall completion confirmation of a maintenance order? Note: There are 3 correct answers to this question ",
     "options": [
       "Time entry",
       "Measuring documents",
@@ -363,7 +363,7 @@
     "correct": ["Time entry", "Measuring documents", "Materials"]
   },
   {
-    "question": "What tasks are performed for external reporting purposes?",
+    "question": "What tasks are performed for external reporting purposes?  Note: There are 2 correct answers to this question ",
     "options": [
       "Manage accounts receivables",
       "Calculate production variances",
@@ -411,7 +411,7 @@
     "correct": ["Procurement type"]
   },
   {
-    "question": "What transactions credit a production order?",
+    "question": "What transactions credit a production order? Note: There are 2 correct answers to this question ",
     "options": [
       "Goods receipt",
       "Material withdrawal",
@@ -421,7 +421,7 @@
     "correct": ["Goods receipt", "Order settlement"]
   },
   {
-    "question": "Which organizational units do you create for Financial Accounting (FI) in SAP S/4HANA Finance?",
+    "question": "Which organizational units do you create for Financial Accounting (FI) in SAP S/4HANA Finance? Note: There are 2 correct answers to this question ",
     "options": [
       "Operating concern",
       "Controlling area",
@@ -431,7 +431,7 @@
     "correct": ["Controlling area", "Company code"]
   },
   {
-    "question": "During the production order process, what steps can be executed via background processing?",
+    "question": "During the production order process, what steps can be executed via background processing? Note: There are 3 correct answers to this question ",
     "options": [
       "Order release",
       "Order settlement",
@@ -467,12 +467,12 @@
     "correct": ["Stock requirements list"]
   },
   {
-    "question": "Which master records are directly assigned to a company code?",
+    "question": "Which master records are directly assigned to a company code? Note: There are 2 correct answers to this question ",
     "options": ["Material", "Cost center", "Activity type", "Fixed asset"],
     "correct": ["Cost center", "Fixed asset"]
   },
   {
-    "question": "When creating a warehouse number in the SAP enterprise structure, what organizational elements must be assigned?",
+    "question": "When creating a warehouse number in the SAP enterprise structure, what organizational elements must be assigned? Note: There are 2 correct answers to this question ",
     "options": ["Shipping point", "Company code", "Plant", "Storage location"],
     "correct": ["Plant", "Storage location"]
   },
@@ -482,7 +482,7 @@
     "correct": ["Storage bin"]
   },
   {
-    "question": "What objects are used to create a Purchasing Info Record?",
+    "question": "What objects are used to create a Purchasing Info Record? Note: There are 3 correct answers to this question ",
     "options": [
       "Company code",
       "Purchasing organization",
@@ -493,7 +493,7 @@
     "correct": ["Purchasing organization", "Material master", "Vendor"]
   },
   {
-    "question": "Which objects can you settle?",
+    "question": "Which objects can you settle? Note: There are 3 correct answers to this question ",
     "options": [
       "Work breakdown structure (WBS) element",
       "Maintenance order",
@@ -512,7 +512,7 @@
     "correct": ["Network"]
   },
   {
-    "question": "Which processes can be automatically performed when you post an order confirmation for a production order?",
+    "question": "Which processes can be automatically performed when you post an order confirmation for a production order? Note: There are 3 correct answers to this question ",
     "options": [
       "Variance calculation",
       "Order settlement",
@@ -523,7 +523,7 @@
     "correct": ["Order settlement", "Goods issue", "Goods receipt"]
   },
   {
-    "question": "You are creating a new company code that you want to assign to the group controlling area. Which characteristics must the new company code share with the other company codes already assigned to the controlling area?",
+    "question": "You are creating a new company code that you want to assign to the group controlling area. Which characteristics must the new company code share with the other company codes already assigned to the controlling area? Note: There are 2 correct answers to this question ",
     "options": [
       "Posting period variant",
       "Fiscal year variant",
@@ -533,7 +533,7 @@
     "correct": ["Fiscal year variant", "Operating chart of accounts"]
   },
   {
-    "question": "What are the suite qualities of the SAP Intelligent Enterprise?",
+    "question": "What are the suite qualities of the SAP Intelligent Enterprise?  Note: There are 3 correct answers to this question ",
     "options": [
       "One workflow inbox",
       "End-to-end process blueprints",
@@ -548,7 +548,7 @@
     ]
   },
   {
-    "question": "Which business process activities create a Financial Accounting (FI) document?",
+    "question": "Which business process activities create a Financial Accounting (FI) document? Note: There are 3 correct answers to this question ",
     "options": [
       "Transfer stock from storage location to storage location",
       "Post goods issue to a production order",
@@ -573,7 +573,7 @@
     "correct": ["Sales orders"]
   },
   {
-    "question": "What happens when you post a goods issue in a delivery document for a sales order?",
+    "question": "What happens when you post a goods issue in a delivery document for a sales order? Note: There are 3 correct answers to this question ",
     "options": [
       "An EWM outbound delivery order is created",
       "The billing due list is updated",
@@ -598,7 +598,7 @@
     "correct": ["Availability control"]
   },
   {
-    "question": "Which controlling objects can be settled by a settlement rule in SAP S/4HANA?",
+    "question": "Which controlling objects can be settled by a settlement rule in SAP S/4HANA? Note: There are 3 correct answers to this question",
     "options": [
       "Production order",
       "Maintenance order",
@@ -614,7 +614,7 @@
     "correct": ["Win"]
   },
   {
-    "question": "Why would you enter your working hours using Cross-Application Time Sheet (CATS)?",
+    "question": "Why would you enter your working hours using Cross-Application Time Sheet (CATS)? Note: There are 3 correct answers to this question ",
     "options": [
       "To record overtime",
       "To request absence",
@@ -625,7 +625,7 @@
     "correct": ["To record overtime", "To confirm activities", "To plan time"]
   },
   {
-    "question": "Which objects can be assigned to a profit center?",
+    "question": "Which objects can be assigned to a profit center? Note: There are 2 correct answers to this question ",
     "options": [
       "Sales order item",
       "Purchase order item",
@@ -635,7 +635,7 @@
     "correct": ["Sales order item", "Material"]
   },
   {
-    "question": "What is the result of converting a planned order?",
+    "question": "What is the result of converting a planned order? Note: There are 2 correct answers to this question ",
     "options": [
       "A planned independent requirement",
       "A purchase requisition",
@@ -667,7 +667,7 @@
     "correct": ["Personnel area"]
   },
   {
-    "question": "What does a posting key control?",
+    "question": "What does a posting key control? Note: There are 2 correct answers to this question ",
     "options": [
       "Debit/credit posting",
       "Posting without tax allowed",
@@ -677,12 +677,12 @@
     "correct": ["Debit/credit posting", "Account type"]
   },
   {
-    "question": "Which of the following are business partner categories in SAP S/4HANA?",
+    "question": "Which of the following are business partner categories in SAP S/4HANA? Note: There are 3 correct answers to this question ",
     "options": ["Individual", "Group", "Person", "Corporation", "Organization"],
     "correct": ["Group", "Person", "Organization"]
   },
   {
-    "question": "Which of the following are selection modes for running MRP?",
+    "question": "Which of the following are selection modes for running MRP? Note: There are 3 correct answers to this question ",
     "options": [
       "MRP Live",
       "Predictive MRP",
@@ -693,7 +693,7 @@
     "correct": ["MRP Live", "Classical MRP", "Regenerative MRP"]
   },
   {
-    "question": "You are creating a new company code that you want to assign to the group controlling area. Which characteristics must the new company code share with the other company codes already assigned to the controlling area?",
+    "question": "You are creating a new company code that you want to assign to the group controlling area. Which characteristics must the new company code share with the other company codes already assigned to the controlling area? Note: There are 2 correct answers to this question ",
     "options": [
       "Fiscal year variant",
       "Operating chart of accounts",
@@ -725,7 +725,7 @@
     ]
   },
   {
-    "question": "What technology elements supercharge the human experience when working with X and O data?",
+    "question": "What technology elements supercharge the human experience when working with X and O data? Note: There are 2 correct answers to this question ",
     "options": [
       "Machine learning predictions",
       "Internet of Things (IoT)",
@@ -735,7 +735,7 @@
     "correct": ["Machine learning predictions", "Internet of Things (IoT)"]
   },
   {
-    "question": "What occurs when a maintenance technician changes the status of an order to technically completed?",
+    "question": "What occurs when a maintenance technician changes the status of an order to technically completed? Note: There are 3 correct answers to this question ",
     "options": [
       "A time entry is posted for the maintenance technician",
       "Incoming invoices for the order can be processed",
@@ -780,7 +780,7 @@
     "correct": ["Profit center"]
   },
   {
-    "question": "Which SAP Fiori application types use SAP HANA capabilities directly?",
+    "question": "Which SAP Fiori application types use SAP HANA capabilities directly? Note: There are 2 correct answers to this question ",
     "options": [
       "Analytical",
       "Transactional",
@@ -810,7 +810,7 @@
     "correct": ["Purchase order"]
   },
   {
-    "question": "What maintenance order elements are included in an operation?",
+    "question": "What maintenance order elements are included in an operation?  Note: There are 3 correct answers to this question",
     "options": [
       "Object list",
       "Settlement rule",
@@ -821,7 +821,7 @@
     "correct": ["Object list", "Work center", "Standard time"]
   },
   {
-    "question": "Which end-to-end business processes are included with SAP S/4HANA in the context of the Intelligent Enterprise?",
+    "question": "Which end-to-end business processes are included with SAP S/4HANA in the context of the Intelligent Enterprise? Note: There are 3 correct answers to this question ",
     "options": [
       "Order to cash",
       "Request to service",
@@ -832,12 +832,12 @@
     "correct": ["Order to cash", "Source to pay", "Record to report"]
   },
   {
-    "question": "You want the SAP S/4HANA system to perform product cost planning. What master data is used to calculate the quantity structure?",
+    "question": "You want the SAP S/4HANA system to perform product cost planning. What master data is used to calculate the quantity structure?  Note: There are 2 correct answers to this question ",
     "options": ["Routing", "Work center", "Cost center", "Bill of material"],
     "correct": ["Routing", "Bill of material"]
   },
   {
-    "question": "At which steps in the order-to-cash process are postings made to the general ledger (G/L)?",
+    "question": "At which steps in the order-to-cash process are postings made to the general ledger (G/L)? Note: There are 2 correct answers to this question ",
     "options": [
       "Creating a sales order",
       "Posting a goods issue",
@@ -847,7 +847,7 @@
     "correct": ["Posting a goods issue", "Saving an invoice"]
   },
   {
-    "question": "A goods issue is posted against a production order. What are the results?",
+    "question": "A goods issue is posted against a production order. What are the results? Note: There are 3 correct answers to this question ",
     "options": [
       "A warehouse task is created",
       "The material reservation is reduced",
@@ -862,7 +862,7 @@
     ]
   },
   {
-    "question": "To which application areas can Cross-Application Time Sheet (CATS) data be transferred directly?",
+    "question": "To which application areas can Cross-Application Time Sheet (CATS) data be transferred directly? Note: There are 3 correct answers to this question ",
     "options": [
       "Management Accounting (CO)",
       "Human Capital Management (HCM)",
@@ -927,7 +927,7 @@
     "correct": ["By service entry sheet"]
   },
   {
-    "question": "What types of procedures may be used to perform a cross-plant stock transfer?",
+    "question": "What types of procedures may be used to perform a cross-plant stock transfer? Note: There are 3 correct answers to this question ",
     "options": [
       "Stock transport order without delivery",
       "Slotting and rearrangement",
@@ -942,7 +942,7 @@
     ]
   },
   {
-    "question": "What activities can a manager complete using Manager Self-Service?",
+    "question": "What activities can a manager complete using Manager Self-Service? Note: There are 2 correct answers to this question ",
     "options": [
       "Control costs",
       "Enroll in benefits",
@@ -972,7 +972,7 @@
     "correct": ["Asset account"]
   },
   {
-    "question": "How do you use the result of a released standard cost estimate?",
+    "question": "How do you use the result of a released standard cost estimate? Note: There are 3 correct answers to this question ",
     "options": [
       "To determine a material sales price in Sales and Distribution",
       "To calculate the price of an activity type",
@@ -1007,7 +1007,7 @@
     "correct": ["General Ledger Accounting"]
   },
   {
-    "question": "Which business processes post to the general ledger?",
+    "question": "Which business processes post to the general ledger? Note: There are 3 correct answers to this question ",
     "options": [
       "Posting an activity allocation",
       "Posting an activity price",
